@@ -14,7 +14,7 @@ Install docker-compose: [multi-platform documentation](https://docs.docker.com/c
 
 Create your project directory:
 ```
-git clone git@github.com:afoke/wordpress-docker.git your-project-name
+git clone git@github.com:0xnu/wordpress-docker.git your-project-name
 cd your-project-name
 ```
 Run docker:
