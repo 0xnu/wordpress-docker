@@ -21,7 +21,7 @@ Run docker:
 ```
 docker-compose up -d
 ```
-* `-d` means detach, the process will be detach of the tty (terminal)
+* `-d` means detach, the process will be detached from tty (text-only console)
 
 ## Makefile alternative
 
